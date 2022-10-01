@@ -85,7 +85,7 @@
                           <v-icon color="#43a047">mdi-checkbox-marked</v-icon>
                         </v-list-item-icon>
                         <v-list-item-content>
-                          Vue.js
+                          Vue.js(学習中)
                         </v-list-item-content>
                       </v-list-item>
                       <v-list-item class="my-n4">
